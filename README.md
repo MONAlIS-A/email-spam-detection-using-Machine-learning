@@ -51,9 +51,3 @@ Spam emails are a major nuisance in digital communication. This project automate
    - Saved as `model.pkl` and `vectorizer.pkl' file for integration with web app
 
 
-
-Clone the repository:
-
-```bash
-git clone https://github.com/MONAlIS-A/email-spam-detection-using-Machine-learning.git
-cd email-spam-detection-using-Machine-learning
