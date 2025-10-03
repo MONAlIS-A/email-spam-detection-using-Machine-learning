@@ -14,9 +14,11 @@ cd email-spam-detection-using-Machine-learning
 ```
 
 ### 2. 🧪 Create a Virtual Environment (Recommended)
+```bash
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 cd mlprojects
+```
 
 ### 3. 📚 Install Dependencies
 pip install -r requirements.txt
