@@ -48,6 +48,6 @@ Spam emails are a major nuisance in digital communication. This project automate
    - Evaluation: Accuracy, Precision
 
 3. **Model Deployment**
-   - Saved as `model.pkl` and `vectorizer.pkl' file for integration with web app
+   - Saved as `model.pkl` and `vectorizer.pkl` file for integration with web app
 
 
