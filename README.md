@@ -8,7 +8,7 @@ To run this project on your local machine, follow these steps:
 
 ### 1. 📦 Clone the Repository
 
-```bash``
+```bash
 git clone https://github.com/MONAlIS-A/email-spam-detection-using-Machine-learning.git
 cd email-spam-detection-using-Machine-learning
 
