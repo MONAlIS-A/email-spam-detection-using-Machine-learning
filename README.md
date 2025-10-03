@@ -21,7 +21,11 @@ cd mlprojects
 ```
 
 ### 3. 📚 Install Dependencies
+```
 pip install -r requirements.txt
+pip install django
+pip install scikit-learn
+```
 
 ### 4. 🚀 Start the Web Application
 python manage.py runserver
